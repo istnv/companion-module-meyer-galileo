@@ -1,0 +1,19 @@
+{
+	"name": "meyer-galileo",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Hardware",
+		"Audio Processor"
+	],
+	"manufacturer": "Meyer Sound",
+	"product": "Galileo Processor",
+	"shortname": "Galileo",
+	"description": "Recall presets on Galileo family processors",
+	"main": "galileo.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "John A Knight Jr <jjr@ayesti.com>",
+	"license": "MIT"
+}
